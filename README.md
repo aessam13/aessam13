@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I am a gamer**
 
 <h3 align="left">Connect with me:</h3>
-**aessam1306@gmail.com**
+aessam1306@gmail.com
 <p align="left">
 </p>
 
