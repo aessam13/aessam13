@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **Laravel, PHP and AWS**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1TFL_Y0j8H8_JAybRtUAbQPusS9QcbURs)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1m_HiqdsyuAP4h_WkwUix9aaInd-rvuYy/view?usp=sharing)
 
 - ⚡ Fun fact: **I am a gamer**
 
